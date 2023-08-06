@@ -16,7 +16,7 @@ const experience = [
   {
     title: "WizCode",
     position: "Frontend Developer",
-    time: "Jul 2022 - Jul 2023",
+    time: "2022 - 2023",
     location: "Warsaw",
     description:
       "I help build large project that includes user profiles, saving user preferences and communicating data with backend. There I was learning from experienced senior frontend devs, that gave me a lot of knowledge and good programming practicies.",
@@ -34,7 +34,7 @@ const experience = [
   {
     title: "Freelancing",
     position: "Freelancer",
-    time: "2022 - current",
+    time: "2022 - now",
     location: "Network",
     description:
       "Senior Full Stack Engineer for Facebook Marketplace. Created a service from scratch to handle new listings. Also played some ping pong. It was fun.",
