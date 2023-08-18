@@ -37,7 +37,15 @@ const experience = [
     time: "2022 - now",
     location: "Network",
     description:
-      "Senior Full Stack Engineer for Facebook Marketplace. Created a service from scratch to handle new listings. Also played some ping pong. It was fun.",
-    tech: ["React.js", "Git", "Sanity CMS", "Tailwind", "SCSS", "Figma"],
+      "Using my experience from university and work to deliver well designed and performing apps made on demand, TokaCars for example.",
+    tech: [
+      "React.js",
+      "Next.js",
+      "Git",
+      "Sanity CMS",
+      "Tailwind",
+      "SCSS",
+      "Figma",
+    ],
   },
 ];
