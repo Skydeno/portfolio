@@ -14,6 +14,21 @@ export const Experience = () => {
 
 const experience = [
   {
+    title: "CLC Volotea",
+    position: "Junior load controller",
+    time: "2023 - current",
+    location: "Gdańsk",
+    description:
+      "My job is to make calculations to gurantee that an aircraft is safe in terms of it's weight, center of gravity and is optimized for best fuel efficiency.",
+    tech: [
+      "ICAO Alphabet",
+      "eLoadsheet",
+      "AHM installations",
+      "English",
+      "Stress management",
+    ],
+  },
+  {
     title: "WizCode",
     position: "Frontend Developer",
     time: "2022 - 2023",

@@ -18,6 +18,31 @@ export const Projects = () => {
 
 const projects = [
   {
+    title: "Bezpieczne Auto USA",
+    imgSrc: "project-imgs/usa.png",
+    code: "https://github.com/Skydeno/",
+    projectLink: "https://bezpieczneautousa.pl/",
+    tech: ["Next.js", "Sanity CMS", "Tailwind", "SCSS", "Figma", "Typescript"],
+    description: "Application made for car importing company.",
+    modalContent: (
+      <>
+        <p>This project was made on company request.</p>
+        <p>
+          Site was made in colaboration with friend, design was purely made by
+          ourselves based only client demands. Application is fully responsive
+          and optimizied to maximum. Code cannot be provided as it's client
+          ownership.
+        </p>
+        <p>
+          App is using Sanity CMS, which gives studio for company to add
+          imported cars themselves. After that, all data and images are given
+          back in API and frontend side of app will map the data and place it on
+          the site. In same way is made YouTube section.
+        </p>
+      </>
+    ),
+  },
+  {
     title: "TokaCars",
     imgSrc: "project-imgs/toka.png",
     code: "https://github.com/Skydeno/Toka-cars",

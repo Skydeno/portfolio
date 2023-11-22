@@ -23,6 +23,7 @@ export const Stats = () => {
             <span className="chip">GitHub</span>
             <span className="chip">Jira</span>
             <span className="chip">Heroku</span>
+            <span className="chip">Postman</span>
           </div>
         </div>
       </Reveal>
