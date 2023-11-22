@@ -19,7 +19,7 @@ const experience = [
     time: "2023 - current",
     location: "Gdańsk",
     description:
-      "My job is to make calculations to gurantee that an aircraft is safe in terms of it's weight, center of gravity and is optimized for best fuel efficiency.",
+      "My job is to make calculations to gurantee that an aircraft is safe in terms of its weight, center of gravity and is optimized for best fuel efficiency.",
     tech: [
       "ICAO Alphabet",
       "eLoadsheet",

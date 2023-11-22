@@ -30,7 +30,7 @@ const projects = [
         <p>
           Site was made in colaboration with friend, design was purely made by
           ourselves based only client demands. Application is fully responsive
-          and optimizied to maximum. Code cannot be provided as it's client
+          and optimizied to maximum. Code cannot be provided as its client
           ownership.
         </p>
         <p>
