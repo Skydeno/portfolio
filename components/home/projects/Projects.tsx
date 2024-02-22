@@ -22,7 +22,7 @@ const projects = [
     imgSrc: "project-imgs/powerso.png",
     code: "https://github.com/Skydeno/",
     projectLink: "https://www.powerso.pl/",
-    tech: ["Next.js", "Sanity CMS", "Tailwind", "SCSS", "Figma", "Typescript"],
+    tech: ["ReactJS", "REST Api", "Tailwind", "SCSS", "Figma", "Typescript"],
     description: "Complex application for electric car owners and chargers",
     modalContent: (
       <>
