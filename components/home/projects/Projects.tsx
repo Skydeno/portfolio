@@ -18,6 +18,23 @@ export const Projects = () => {
 
 const projects = [
   {
+    title: "Powerso",
+    imgSrc: "project-imgs/powerso.png",
+    code: "https://github.com/Skydeno/",
+    projectLink: "https://www.powerso.pl/",
+    tech: ["Next.js", "Sanity CMS", "Tailwind", "SCSS", "Figma", "Typescript"],
+    description: "Complex application for electric car owners and chargers",
+    modalContent: (
+      <>
+        <p>Realized while working in WizCode.</p>
+        <p>
+          Project that is focused in delivering optimized and advanced web
+          application with services like user account and reservations.
+        </p>
+      </>
+    ),
+  },
+  {
     title: "Bezpieczne Auto USA",
     imgSrc: "project-imgs/usa.png",
     code: "https://github.com/Skydeno/",
@@ -107,23 +124,6 @@ const projects = [
         <p>
           When clicking on plane icon, you cant check some data that is attached
           to the aircraft.
-        </p>
-      </>
-    ),
-  },
-  {
-    title: "Powerso",
-    imgSrc: "project-imgs/powerso.png",
-    code: "https://github.com/Skydeno/",
-    projectLink: "https://www.powerso.pl/",
-    tech: ["Next.js", "Sanity CMS", "Tailwind", "SCSS", "Figma", "Typescript"],
-    description: "Complex application for electric car owners and chargers",
-    modalContent: (
-      <>
-        <p>Realized while working in WizCode.</p>
-        <p>
-          Project that is focused in delivering optimized and advanced web
-          application with services like user account and reservations.
         </p>
       </>
     ),
