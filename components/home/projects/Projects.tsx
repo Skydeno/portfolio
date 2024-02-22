@@ -112,19 +112,18 @@ const projects = [
     ),
   },
   {
-    title: "Hangman game",
-    imgSrc: "project-imgs/hangman.jpg",
-    code: "https://github.com/Skydeno/hangman",
-    projectLink: "None",
-    tech: ["HTML", "CSS", "JavaScript"],
-    description: "Simple hangman game with polish keywords",
+    title: "Powerso",
+    imgSrc: "project-imgs/powerso.png",
+    code: "https://github.com/Skydeno/",
+    projectLink: "https://www.powerso.pl/",
+    tech: ["Next.js", "Sanity CMS", "Tailwind", "SCSS", "Figma", "Typescript"],
+    description: "Complex application for electric car owners and chargers",
     modalContent: (
       <>
-        <p>Game was purely made for fun and practice of JavaScript.</p>
+        <p>Realized while working in WizCode.</p>
         <p>
-          Game rules are simple - click a letter and hope that the keyword
-          contains that one. If You manage to complete without failing 10 times
-          - You win!
+          Project that is focused in delivering optimized and advanced web
+          application with services like user account and reservations.
         </p>
       </>
     ),
