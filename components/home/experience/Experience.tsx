@@ -15,7 +15,7 @@ export const Experience = () => {
 const experience = [
   {
     title: "CLC Volotea",
-    position: "Junior load controller",
+    position: "Load controller and AHM Specialist",
     time: "2023 - current",
     location: "Gdańsk",
     description:
