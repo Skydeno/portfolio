@@ -14,9 +14,26 @@ export const Experience = () => {
 
 const experience = [
   {
+    title: "Navblue, an Airbus Company",
+    position: "Aeronautical Analyst",
+    time: "2024 - current",
+    location: "Gdańsk",
+    description:
+      "Responsibility to maintain safety critical records in database supporting variety of products for pilots and airlines.",
+    tech: [
+      "Aeronautical publications",
+      "Making critical and important decisions",
+      "Customer service",
+      "Working in big corporate environment",
+      "English",
+      "Balancing workload to provide highest quality",
+      "Stress management",
+    ],
+  },
+  {
     title: "CLC Volotea",
     position: "Load controller and AHM Specialist",
-    time: "2023 - current",
+    time: "2023 - 2024",
     location: "Gdańsk",
     description:
       "My job is to make calculations to gurantee that an aircraft is safe in terms of its weight, center of gravity and is optimized for best fuel efficiency.",
@@ -49,7 +66,7 @@ const experience = [
   {
     title: "Freelancing",
     position: "Freelancer",
-    time: "2022 - now",
+    time: "2022 - 2024",
     location: "Network",
     description:
       "Using my experience from university and work to deliver well designed and performing apps made on demand, TokaCars for example.",

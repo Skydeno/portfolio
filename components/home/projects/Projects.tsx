@@ -63,7 +63,7 @@ const projects = [
     title: "TokaCars",
     imgSrc: "project-imgs/toka.png",
     code: "https://github.com/Skydeno/Toka-cars",
-    projectLink: "https://tokacars.eu/",
+    projectLink: "https://github.com/Skydeno/Toka-cars",
     tech: ["Next.js", "Sanity CMS", "GROQL", "SCSS", "Figma", "Typescript"],
     description: "Car rent company based in Poznań, Poland.",
     modalContent: (
@@ -96,34 +96,6 @@ const projects = [
         <p>
           Design was made myself and i want to mention it again - this project
           is one of the firsts i ever did.
-        </p>
-      </>
-    ),
-  },
-  {
-    title: "KonradFlight",
-    imgSrc: "project-imgs/git.jpg",
-    code: "https://github.com/Skydeno/konrad-flight/tree/master/Konrad-flight-frontend",
-    projectLink: "None",
-    tech: ["Express", "React.js", "SCSS", "REST Api", "Typescript"],
-    description: "My pet project with aviation theme. (WIP)",
-    modalContent: (
-      <>
-        <p>
-          KonradFlight is my pet project that i started a while ago, but
-          abandoned because of many tasks at work.
-        </p>
-        <p>
-          Plane data is mostly fetched from opensky network that is allowing for
-          free requests in intervals.
-        </p>
-        <p>
-          Airport data was downloaded from google and is returend by server made
-          in Express.
-        </p>
-        <p>
-          When clicking on plane icon, you cant check some data that is attached
-          to the aircraft.
         </p>
       </>
     ),

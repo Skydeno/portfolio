@@ -21,10 +21,9 @@ export const Hero = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutCopy}>
-              I&apos;ve spent last 4 years learning frontend programming for
-              myself, in free time and in university. For almost 2 years
-              I&apos;ve been gathering commercial experience. Let&apos;s
-              connect!
+              I&apos;ve spent 4 years learning frontend programming for myself,
+              in spare time and during university. For almost 2 years I&apos;ve
+              been gathering commercial experience.
             </p>
           </Reveal>
           <Reveal>
